@@ -378,7 +378,7 @@ li p{
 
     } 
     @media (min-width: 1300px) {
-        #nuestras-vestimentas .vestimentas{
+        #nuestras-ropas .vestimentas{
             display: flex;
             flex-direction: row;
             justify-content: space-evenly;
