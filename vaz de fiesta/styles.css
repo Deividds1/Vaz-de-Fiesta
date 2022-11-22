@@ -92,17 +92,17 @@ header a:hover{
     text-align: justify;
     font-size: 1em;
 }
-#nuestras-vestimentas{
+#nuestras-ropas{
     background-color: rgb(30,30,30);
     color: gold;
     text-align: center;
 }
 
-#nuestras-vestimentas .container{
+#nuestras-ropas .container{
     padding: 150px 12px;
 }
 
-#nuestras-vestimentas .carta{
+#nuestras-ropas .carta{
     background-position: bottom bottom;
     background-size: cover;
     padding: 25px;
@@ -305,13 +305,13 @@ li p{
         text-align: left;
     }
 
-    #nuestras-vestimentas .vestimentas{
+    #nuestras-ropas .vestimentas{
             display: grid;
             grid-template-columns: auto auto;
         }
     
 
-    #nuestras-vestimentas .carta{
+    #nuestras-ropas .carta{
         padding: 25px;
         background-size: cover;
         background-repeat: no-repeat;
